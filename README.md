@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
-- 👯 I’m looking to collaborate on **NLP projects**
-
 - 💬 Ask me about **Python, scikit-learn, pandas Data visualization (Matplotlib, Seaborn) Basics of NLP and ML project structuring**
 
 - 📫 How to reach me **kardelncann@gmail.com**
